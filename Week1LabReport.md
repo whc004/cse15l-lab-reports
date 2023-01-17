@@ -19,6 +19,6 @@
 ![Image](https://github.com/whc004/cse15l-lab-reports/blob/37758d5e45221576f1c841e2f3f53d685a7ea7e1/Screen%20Shot%202023-01-12%20at%201.40.47%20PM.png)
 
 # Trying Some Commands
-1. After you log in successfully, try some command such as, cd ~ ,cd, ls -lat and ls -a.
+1. After you log in successfully, try some command such as, ```cd ~``` ,```cd```, ```ls -lat``` and ```ls -a```.
 For instance: ![Image](https://github.com/whc004/cse15l-lab-reports/blob/37758d5e45221576f1c841e2f3f53d685a7ea7e1/Screen%20Shot%202023-01-12%20at%201.40.47%20PM.png)
-2. Log out of the remote server in your terminal by using the command : exit
+2. Log out of the remote server in your terminal by using the command : ```exit```
