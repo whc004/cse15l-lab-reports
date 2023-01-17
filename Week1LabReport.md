@@ -1,11 +1,12 @@
-Installing VScode
-1. Go to the Visual Studio Code website <https://code.visualstudio.com> and download it.
-2. You should get the screen like this
+# Installing VScode
+1. Go to the Visual Studio Code website (<https://code.visualstudio.com>) 
+2. Download the installer on your computer
+3. Click the installer and follow the instruction to dowload Visual Studio Code to your computer
+4. You should get the screen like this after you finish
+![Image](https://github.com/whc004/cse15l-lab-reports/blob/37758d5e45221576f1c841e2f3f53d685a7ea7e1/Screen%20Shot%202023-01-12%20at%201.40.47%20PM.png)
+# Remotely Connecting
+1. (<https://sdacs.ucsd.edu/~icc/index.php>)
+![Image](https://github.com/whc004/cse15l-lab-reports/blob/37758d5e45221576f1c841e2f3f53d685a7ea7e1/Screen%20Shot%202023-01-12%20at%201.40.47%20PM.png)
 
-<img width="1440" alt="Screen Shot 2023-01-12 at 12 43 54 PM" src="https://user-images.githubusercontent.com/122571184/212805919-2d849298-94ba-480a-a4a0-adabe89b4653.png">
-Remotely Connecting
-1. <https://sdacs.ucsd.edu/~icc/index.php>
-<img width="701" alt="Screen Shot 2023-01-12 at 1 40 47 PM" src="https://user-images.githubusercontent.com/122571184/212805917-80a81390-ad6f-4f69-9edb-14770fc5946e.png">
-
-Trying Some Commands
+# Trying Some Commands
 ![Image](https://github.com/whc004/cse15l-lab-reports/blob/37758d5e45221576f1c841e2f3f53d685a7ea7e1/Screen%20Shot%202023-01-12%20at%201.40.47%20PM.png)
