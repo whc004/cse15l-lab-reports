@@ -5,7 +5,7 @@
 2. Download the installer on your computer
 3. Click the installer and follow the instruction to dowload Visual Studio Code to your computer
 4. You should get the screen like this after you finish
-![Image](https://github.com/whc004/cse15l-lab-reports/blob/60130805a08b9c696e0bb9776753d05c8a51e6b2/image3.PNG)
+![Image](image3.PNG)
 # Remotely Connecting
 1. Look up your username here(<https://sdacs.ucsd.edu/~icc/index.php>)
 2. Input your UCSD username and PID to find your username (your username should begin with cs15lwi23)
@@ -18,9 +18,9 @@
    ssh YOUR_ACCOUNT_NAME@ieng6.ucsd.edu
 9. Enter your password and press enter (Don't worry about the password do not show up, just type your password and press enter)
 10. You should get the screen like this after you log in successfully
-![Image](https://github.com/whc004/cse15l-lab-reports/blob/60130805a08b9c696e0bb9776753d05c8a51e6b2/image1.png)
+![Image](image1.png)
 
 # Trying Some Commands
 1. After you log in successfully, try some command such as, ```cd ~``` ,```cd```, ```ls -lat``` and ```ls -a```.
-For instance: ![Image](https://github.com/whc004/cse15l-lab-reports/blob/60130805a08b9c696e0bb9776753d05c8a51e6b2/image2.png)
+For instance: ![Image](image2.png)
 2. Log out of the remote server in your terminal by using the command : ```exit```
